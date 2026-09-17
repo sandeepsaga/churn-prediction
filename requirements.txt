@@ -1,0 +1,15 @@
+streamlit>=1.37.0
+pandas>=2.2.0,<3.0.0
+numpy>=1.26.0,<2.0.0
+scipy>=1.13.0,<1.14.0
+xgboost
+shap>=0.45.0
+lifetimes
+scikit-learn
+plotly
+matplotlib
+seaborn
+joblib
+pyarrow
+pillow
+opendatasets
